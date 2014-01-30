@@ -4,8 +4,8 @@ healthm4m
 Detecting health-related language in Craigslist ads
 
 RESEARCH TEAM:
-Oliver Haimson (ohaimson@uci.edu), Department of Informatics, UC Irvine
-Jed Brubaker, Department of Informatics, UC Irvine
+Oliver Haimson (ohaimson@uci.edu), Department of Informatics, UC Irvine;
+Jed Brubaker, Department of Informatics, UC Irvine;
 Gillian Hayes, Department of Informatics, UC Irvine
 
 FULL PAPER: 
